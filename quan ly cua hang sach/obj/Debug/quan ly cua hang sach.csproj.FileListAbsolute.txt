@@ -1,0 +1,81 @@
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.exe.config
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.exe
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.pdb
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.exe
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.pdb
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Form1.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmBanHang.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmGiaNiemYet.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmHoaDonBan.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSachBanraa.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmKeSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNgonNgu.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNhaCC.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNXB.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmHoaDonNhap.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSachMuaVao.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTaiKhoan.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTheLoai.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmThuChi.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmTraCuuHD.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTraCuuSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmTraCuuSachNhapVe.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Properties.Resources.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Quản_lý.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\Quan Ly CHS Da CHinh Sua11\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.exe.config
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.exe
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.pdb
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.exe
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.pdb
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Form1.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmBanHang.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmGiaNiemYet.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmHoaDonBan.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSachBanraa.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmKeSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNgonNgu.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNhaCC.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNXB.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmHoaDonNhap.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSachMuaVao.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTaiKhoan.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTheLoai.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmThuChi.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmTraCuuHD.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTraCuuSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmTraCuuSachNhapVe.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Properties.Resources.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Quản_lý.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\do an cong nghe phan mem\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.exe.config
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.exe
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.pdb
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.exe
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\bin\Debug\quan ly cua hang sach.pdb
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Form1.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmBanHang.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmGiaNiemYet.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmHoaDonBan.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSachBanraa.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmKeSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNgonNgu.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNhaCC.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmNXB.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmHoaDonNhap.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSachMuaVao.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTaiKhoan.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTheLoai.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmThuChi.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmTraCuuHD.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmTraCuuSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.FrmTraCuuSachNhapVe.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Properties.Resources.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.Quản_lý.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan_ly_cua_hang_sach.frmSach.resources
+C:\Users\PC\Desktop\Công nghệ phần mềm\doanCNPM\quan ly cua hang sach\quan ly cua hang sach\obj\Debug\quan ly cua hang sach.csproj.GenerateResource.Cache
